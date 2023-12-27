@@ -1,5 +1,5 @@
 # Automation-Control-Design
-Designing an Automation System Control project in Factory IO application With the Association of TIA Portal Programming, KEPServerEX 6 client Servers and Indusoft Web Studio's HMI Sectio.
+Designing an Automation System Control project in Factory IO application With the Association of TIA Portal Programming, KEPServerEX 6 client Servers and Indusoft Web Studio's HMI Section.
 
 Goal: Designing a Project that can take and put 2 blue Lid and Base Product pieces on each other and transport it to their next destination with Vision Sensors and Pushers.
 And transport it to their next destination with conveyor and putting the object on a pallet with the Two Axis Pick and Place tool.
